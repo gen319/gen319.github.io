@@ -696,7 +696,7 @@ var g1_apply_filters = function(name, value, params) {
      * package: G1 jQuery
      *
      * Preventing the page to scale larger than 1.0, when changing the device to landscape orientation
-     * Based on: https://adactio.com/journal/4470/
+     * Based on: http://adactio.com/journal/4470/
      * ================================================================================================== */
     (function($) {
         $.fn.g1PreventScale = function() {
@@ -1172,7 +1172,7 @@ var g1_apply_filters = function(name, value, params) {
                     '</div>',
                     '<div class="jp-no-solution">',
                     '<span>Update Required</span>',
-                    'To play the media you will need to either update your browser to a recent version or update your <a href="https://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.',
+                    'To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.',
                     '</div>',
                     '</div>',
                     '</div>'
