@@ -1,6 +1,6 @@
 
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -77,7 +77,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -154,7 +154,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -231,7 +231,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -308,7 +308,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -385,7 +385,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -523,7 +523,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /alternative-cancer-treatment/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -637,7 +637,7 @@
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/
 /blog/page/2/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -801,7 +801,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -878,7 +878,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -955,7 +955,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -1032,7 +1032,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2006/02/20/natural-alternatives-ritalin-adderall/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2006/02/20/natural-alternatives-ritalin-adderall/feed/
@@ -1104,7 +1104,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -1181,7 +1181,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -1331,7 +1331,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -1408,7 +1408,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -1485,7 +1485,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -1639,7 +1639,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -1716,7 +1716,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -1793,7 +1793,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -1946,7 +1946,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -2098,7 +2098,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -2175,7 +2175,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2008/04/23/herb-month-coleus-forskohlii/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2008/04/23/herb-month-coleus-forskohlii/feed/
@@ -2249,7 +2249,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -2326,7 +2326,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -2403,7 +2403,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2008/08/16/cheap-meat-accident-waiting-happen/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2008/08/16/cheap-meat-accident-waiting-happen/feed/
@@ -2477,7 +2477,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -2554,7 +2554,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -2631,7 +2631,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -2781,7 +2781,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -2858,7 +2858,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -2935,7 +2935,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -3012,7 +3012,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2010/04/23/herb-month-tea-tree-melaleuca-alternifolia/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2010/04/23/herb-month-tea-tree-melaleuca-alternifolia/feed/
@@ -3086,7 +3086,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -3163,7 +3163,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -3240,7 +3240,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -3317,7 +3317,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2013/01/16/sports-nutrition-basics/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2013/01/16/sports-nutrition-basics/feed/
@@ -3391,7 +3391,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -3468,7 +3468,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -3545,7 +3545,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2013/02/23/low-thyroid-high-incidence-u-s/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2013/02/23/low-thyroid-high-incidence-u-s/feed/
@@ -3619,7 +3619,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -3696,7 +3696,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -3851,7 +3851,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -3928,7 +3928,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -4085,7 +4085,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -4162,7 +4162,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -4312,7 +4312,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -4389,7 +4389,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -4466,7 +4466,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2013/07/01/herb-month-prickly-pear/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2013/07/01/herb-month-prickly-pear/feed/
@@ -4540,7 +4540,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -4617,7 +4617,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -4694,7 +4694,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2013/08/18/supplements/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2013/08/18/supplements/feed/
@@ -4767,7 +4767,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -4844,7 +4844,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -4921,7 +4921,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2013/09/10/herb-month-gotu-kola/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2013/09/10/herb-month-gotu-kola/feed/
@@ -4994,7 +4994,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -5071,7 +5071,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -5222,7 +5222,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -5373,7 +5373,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -5450,7 +5450,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -5527,7 +5527,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2013/11/22/get-kids-eat-healthy-part/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2013/11/22/get-kids-eat-healthy-part/feed/
@@ -5601,7 +5601,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -5678,7 +5678,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -5829,7 +5829,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -5906,7 +5906,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -5983,7 +5983,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -6134,7 +6134,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -6211,7 +6211,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2014/02/26/breast-thermography/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2014/02/26/breast-thermography/feed/
@@ -6286,7 +6286,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -6363,7 +6363,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -6440,7 +6440,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2014/03/22/cancer-much-controversy/
-//wp-content/uploads/2013/06/Choice.png
+/wp-content/uploads/2013/06/Choice.png
 /feed/
 /comments/feed/
 /blog/2014/03/22/cancer-much-controversy/feed/
@@ -6514,7 +6514,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -6591,7 +6591,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -6668,7 +6668,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2014/04/15/cure-common-cold/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2014/04/15/cure-common-cold/feed/
@@ -6742,7 +6742,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -6892,7 +6892,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -6969,7 +6969,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2014/04/23/eating-sugar-doubles-risk-death-cancer-patients/
-//wp-content/uploads/2014/04/Sugar-a-bitter-warning2.png
+/wp-content/uploads/2014/04/Sugar-a-bitter-warning2.png
 /feed/
 /comments/feed/
 /blog/2014/04/23/eating-sugar-doubles-risk-death-cancer-patients/feed/
@@ -7110,7 +7110,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -7187,7 +7187,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -7341,7 +7341,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -7493,7 +7493,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -7646,7 +7646,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -7796,7 +7796,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -7873,7 +7873,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2014/05/27/sugar-feeds-cancer-growth/
-//wp-content/uploads/2014/05/NatureWorksBestGasFire.png
+/wp-content/uploads/2014/05/NatureWorksBestGasFire.png
 /feed/
 /comments/feed/
 /blog/2014/05/27/sugar-feeds-cancer-growth/feed/
@@ -7959,7 +7959,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -8036,7 +8036,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -8183,7 +8183,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -8260,7 +8260,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -8402,7 +8402,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -8479,7 +8479,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -8556,7 +8556,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -8711,7 +8711,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -8788,7 +8788,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -8943,7 +8943,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -9020,7 +9020,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -9175,7 +9175,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -9252,7 +9252,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -9329,7 +9329,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -9481,7 +9481,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -9558,7 +9558,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -9635,7 +9635,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -9790,7 +9790,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -9867,7 +9867,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -10022,7 +10022,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -10099,7 +10099,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -10251,7 +10251,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -10328,7 +10328,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -10405,7 +10405,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2017/08/08/cancer-can-killed-documentary/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -10478,7 +10478,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -10555,7 +10555,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -10632,7 +10632,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -10785,7 +10785,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -10862,7 +10862,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/05/25/manifesto-for-a-cancer-patient-dr-colleen-huber/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/05/25/manifesto-for-a-cancer-patient-dr-colleen-huber/feed/
@@ -10936,7 +10936,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -11013,7 +11013,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -11090,7 +11090,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/07/11/cancer-biochemistry-1/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/07/11/cancer-biochemistry-1/feed/
@@ -11165,7 +11165,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -11242,7 +11242,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/07/18/cancer-biochemistry-2/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/07/18/cancer-biochemistry-2/feed/
@@ -11317,7 +11317,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -11394,7 +11394,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/07/25/cancer-biochemistry-3/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/07/25/cancer-biochemistry-3/feed/
@@ -11469,7 +11469,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -11546,7 +11546,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -11623,7 +11623,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/08/12/cancer-biochemistry-4/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/08/12/cancer-biochemistry-4/feed/
@@ -11698,7 +11698,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -11775,7 +11775,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/08/19/cancer-biochemistry-5/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/08/19/cancer-biochemistry-5/feed/
@@ -11850,7 +11850,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -11927,7 +11927,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/08/26/cancer-biochemistry-6/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/08/26/cancer-biochemistry-6/feed/
@@ -12002,7 +12002,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -12079,7 +12079,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -12156,7 +12156,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/09/07/cancer-and-biochemistry-7/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/09/07/cancer-and-biochemistry-7/feed/
@@ -12231,7 +12231,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -12308,7 +12308,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/09/14/cancer-and-biochemistry-8/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/09/14/cancer-and-biochemistry-8/feed/
@@ -12383,7 +12383,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -12460,7 +12460,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/09/21/cancer-and-biochemistry-9/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/09/21/cancer-and-biochemistry-9/feed/
@@ -12535,7 +12535,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -12612,7 +12612,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/09/28/cancer-and-biochemistry-10-coq10-and-cancer/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/09/28/cancer-and-biochemistry-10-coq10-and-cancer/feed/
@@ -12687,7 +12687,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -12764,7 +12764,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -12841,7 +12841,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/10/17/cancer-and-biochemistry-11/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/10/17/cancer-and-biochemistry-11/feed/
@@ -12916,7 +12916,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -12993,7 +12993,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/10/26/what-ultimately-prevents-cancer-2/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/10/26/what-ultimately-prevents-cancer-2/feed/
@@ -13067,7 +13067,7 @@
 /wp-content/plugins/g1-gmaps/js/jquery-metadata/jquery.metadata.js
 /wp-content/plugins/g1-gmaps/js/g1-gmaps.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -13144,7 +13144,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /wp-content/plugins/pdf-embedder/css/pdfemb-blocks.css
@@ -13221,7 +13221,7 @@
 /wp-content/themes/3clicks/js/jquery.magnific-popup/jquery.magnific-popup.min.js
 /wp-content/plugins/monarch/core/admin/js/common.js
 /blog/2018/12/12/cancer-biochemistry-12/
-//wp-content/uploads/2014/04/zRCeJTjN.jpeg
+/wp-content/uploads/2014/04/zRCeJTjN.jpeg
 /feed/
 /comments/feed/
 /blog/2018/12/12/cancer-biochemistry-12/feed/
