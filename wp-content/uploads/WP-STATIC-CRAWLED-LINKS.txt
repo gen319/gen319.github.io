@@ -172,10 +172,3 @@
 /blog/2018/12/
 /blog/2018/12/12/
 /blog/2018/12/12/cancer-biochemistry-12/
-/blog/2019/
-/blog/2019/01/
-/blog/2019/01/04/
-/blog/2019/01/04/cancer-biochemistry-13/
-/blog/2019/02/
-/blog/2019/02/15/
-/blog/2019/02/15/cancer-biochemistry-14/

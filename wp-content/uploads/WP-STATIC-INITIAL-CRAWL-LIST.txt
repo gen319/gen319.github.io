@@ -206,7 +206,7 @@
 /blog/2019/07/22/exercise-and-oxygen/
 /blog/2019/08/
 /blog/2019/08/16/
-/blog/2019/08/16/colleen-huber-nmd-cancer-biochemistry-22/
+/blog/2019/08/16/colleen-huber-nmds-cancer-and-biochemistry-22/
 /blog/category/cancer-articles/
 /blog/category/cancer-articles/page/1
 /blog/category/cancer-articles/page/2
