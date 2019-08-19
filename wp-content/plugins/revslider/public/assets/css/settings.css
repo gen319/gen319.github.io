@@ -214,7 +214,6 @@ img.tp-slider-alternative-image {width: 100%;height: auto;}
 .rev-sbutton-red {background-color: #dd4b39;}
 .tp-bannertimer {visibility: hidden;width: 100%;height: 5px;background: #000;background: rgba(0,0,0,.15);position: absolute;z-index: 200;top: 0px;}
 .tp-bannertimer.tp-bottom {top: auto;bottom: 0px !important;height: 5px;}
-.tp-layers-container {transform-style: preserve-3d;position: absolute;width: 100%;height: 100%;overflow: hidden;top: 0px;left: 0px;}
 .tp-caption img {background: transparent;-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF)";filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=rgba(0,255,255,1),endColorstr=rgba(0,255,255,1));zoom: 1;}
 .tp-caption img {}
 .caption.slidelink a div, .tp-caption.slidelink a div {width: 3000px;height: 1500px;background: url("../assets/coloredbg.png") repeat;}
@@ -322,3 +321,4 @@ body.rtl .tp-kbimg {left: 0 !important;}
 .slumber::after {background: rgba(125,105,24,.5);mix-blend-mode: soft-light;}
 .slumber::before {background: rgba(69,41,12,.4);mix-blend-mode: lighten;}
 .tp-kbimg-wrap:before, .tp-kbimg-wrap:after {height: 500%;width: 500%;}
+.rs-background-video-layer iframe {visibility: inherit !important;}
