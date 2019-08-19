@@ -47,5 +47,9 @@ input.pdfemb-page-num {display: inline;font-family: sans-serif;width: 30px;heigh
 .pdfembTextLayer {position: absolute;left: 0;top: 0;right: 0;bottom: 0;overflow: hidden;opacity: .2;line-height: 1;background: none;}
 .pdfembTextLayer > div {cursor: text !important;color: transparent;position: absolute;padding: 0;margin: 0;background: none;top: 0;left: 0;-webkit-transform-origin: 0% 0%;-moz-transform-origin: 0% 0%;-o-transform-origin: 0% 0%;-ms-transform-origin: 0% 0%;transform-origin: 0% 0%;}
 .pdfemb-pagescontainer {overflow: hidden;display: block;position: relative;background-color: lightGrey;}
+.poweredby {float: right !important;}
 @media screen and (min-color-index:0)
 and(-webkit-min-device-pixel-ratio:0) {@media {.pdfemb-pagescontainer {margin-left: 1px;}}}
+.scrollbar-none {overflow: scroll;scrollbar-width: none;}
+.scrollbar-none::-webkit-scrollbar {display: none;}
+.scrollbar-none {-ms-overflow-style: none;}
